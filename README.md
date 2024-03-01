@@ -3,8 +3,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=fitri-hy&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@waka_de988569-87d7-4fc7-bf8b-228a68897e65)
-
 <h1 align="center">
 <samp>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am 
 <b><a target="_blank" href="https:/hy-tech.my.id">Fitri HY</a></b>
