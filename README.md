@@ -11,12 +11,12 @@
 </samp>
 </h1>
 
-<p style="display: flex; justify-content: center; gap: 5px;">
+<p align="center" style="display: flex; justify-content: center; gap: 5px;">
  <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://fitri.orzpartners.com/static/media/img-mobile.ffe4e72eca58036afbb6.jpg" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fitri-hy&show_icons=true&locale=en&layout=compact" alt="fitri-hy" />
 </p>
 
-<p style="display: flex; justify-content: center; gap: 5px;">
+<p align="center" style="display: flex; justify-content: center; gap: 5px;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitri-hy&theme=github" alt="fitri hy"/>
 </p>
 
@@ -48,7 +48,7 @@
 
 </div>
 
-<p style="display: flex; justify-content: center; gap: 5px;">
+<p align="center" style="display: flex; justify-content: center; gap: 5px;">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fitri-hy&theme=github" alt="fitri hy"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fitri-hy&theme=github" alt="fitri hy"/>
 </p>
