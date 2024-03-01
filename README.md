@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
- <img width="16px" style="border-radius: 50%; margin-right: 15px;" src="https://fitri.orzpartners.com/static/media/img-mobile.ffe4e72eca58036afbb6.jpg" />
+ <img width="165px" style="border-radius: 50%; margin-right: 15px;" src="https://fitri.orzpartners.com/static/media/img-mobile.ffe4e72eca58036afbb6.jpg" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fitri-hy&show_icons=true&locale=en&layout=compact" alt="fitri-hy" />
 </p>
 
