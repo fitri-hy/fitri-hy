@@ -32,11 +32,11 @@
 
 <p align="center">
   <a href="https://hy-tech.my.id/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express" />
+    <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express,git,vscode" />
   </a>
 <p align="center">
   <a href="https://hy-tech.my.id/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,java,kotlin,flutter,mysql,mongodb,firebase,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,java,kotlin,flutter,mysql,mongodb,firebase,erlang,elixir" />
   </a>
 </p>
 
