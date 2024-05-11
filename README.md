@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://hy-tech.my.id/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind,sass" />
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind,sass,git" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://hy-tech.my.id/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express" />
   </a>
 <p align="center">
   <a href="https://hy-tech.my.id/" target="_blank">
