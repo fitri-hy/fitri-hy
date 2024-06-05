@@ -55,9 +55,9 @@
 
 <img src="https://i-as.dev/assets/images/vercel.jpg" />
 
-Increase the credibility and professional impression of your site with a subdomain from i-as.dev. Don't miss the opportunity to have a unique and easy to remember web address. 
+Increase the credibility and professional impression of your site with a subdomain from i-as.dev. Don't miss the opportunity to have a unique and easy to remember web address.
 
-Get a free I-As.Dev subdomain exclusively for Vercel users. Please complete the form below to get an I-As.Dev subdomain.
+Get it immediately FREE especially for Vercel users. Please complete the form at the URL below to get it.
 
 <b>Register to: https://i-as.dev/subdomain</b>
 
