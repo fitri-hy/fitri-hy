@@ -51,3 +51,14 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fitri-hy&theme=github" alt="fitri hy"/>
 </p>
   
+# Get I-As.Dev Subdomain
+
+<img src="https://i-as.dev/assets/images/vercel.jpg" />
+
+Increase the credibility and professional impression of your site with a subdomain from i-as.dev. Don't miss the opportunity to have a unique and easy to remember web address. 
+
+Get a free I-As.Dev subdomain exclusively for Vercel users. Please complete the form below to get an I-As.Dev subdomain.
+
+<b>Register to: https://i-as.dev/subdomain</b>
+
+Thank You.
