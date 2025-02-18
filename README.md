@@ -5,7 +5,7 @@
 
 <h1 align="center">
 <samp>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I am 
-<b><a target="_blank" href="https:/hy-tech.my.id">Fitri HY</a></b>
+<b><a target="_blank" href="https:/i-as.dev">Fitri HY</a></b>
 </samp>
 </h1>
 
@@ -19,23 +19,23 @@
 </p>
 
 <p align="center">
-  <a href="https://hy-tech.my.id/" target="_blank">
+  <a href="https://i-as.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hy-tech.my.id/" target="_blank">
+  <a href="https://i-as.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind,sass,git" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hy-tech.my.id/" target="_blank">
+  <a href="https://i-as.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express" />
   </a>
 <p align="center">
-  <a href="https://hy-tech.my.id/" target="_blank">
+  <a href="https://i-as.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,java,kotlin,flutter,mysql,mongodb,firebase,vscode,elixir" />
   </a>
 </p>
