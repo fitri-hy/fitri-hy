@@ -9,7 +9,7 @@
   </samp>
 </h1>
 
-<p style="font-size: 14px; font-style: italic; color: #555;">
+<p align="center" style="font-size: 14px; font-style: italic; color: #555;">
 "Today's hard work is the foundation of tomorrow's innovation"
 </p>
   
