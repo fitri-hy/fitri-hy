@@ -7,11 +7,12 @@
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">, I am 
     <b><a href="https://i-as.dev" target="_blank" style="text-decoration: none; color: #0077cc;">Fitri HY</a></b>
   </samp>
-  <p style="font-size: 14px; font-style: italic; color: #555;">
-    "Today's hard work is the foundation of tomorrow's innovation"
-  </p>
 </h1>
 
+<p style="font-size: 14px; font-style: italic; color: #555;">
+"Today's hard work is the foundation of tomorrow's innovation"
+</p>
+  
 <p align="center" style="display: flex; justify-content: center; gap: 5px;">
  <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fitri-hy&show_icons=true&locale=en&layout=compact" alt="fitri-hy" />
