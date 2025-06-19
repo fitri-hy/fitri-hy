@@ -5,7 +5,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
   <samp>
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">, I am 
-    <b><span style="text-decoration: none; color: #0077cc;">Fitri HY</span></b>
+    <b><a href="#" style="text-decoration: none; color: #0077cc;">Fitri HY</a></b>
   </samp>
 </h1>
 
