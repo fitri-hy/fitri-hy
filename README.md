@@ -5,7 +5,7 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
   <samp>
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand">, I am 
-    <b><a href="https://i-as.dev" target="_blank" style="text-decoration: none; color: #0077cc;">Fitri HY</a></b>
+    <b><span style="text-decoration: none; color: #0077cc;">Fitri HY</span></b>
   </samp>
 </h1>
 
@@ -23,23 +23,23 @@
 </p>
 
 <p align="center">
-  <a href="https://i-as.dev/" target="_blank">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://i-as.dev/" target="_blank">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind,sass,git" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://i-as.dev/" target="_blank">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=javascript,jquery,react,astro,vite,vue,angular,svelte,nodejs,nextjs,express" />
   </a>
 <p align="center">
-  <a href="https://i-as.dev/" target="_blank">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,java,kotlin,flutter,mysql,mongodb,firebase,vscode,elixir" />
   </a>
 </p>
