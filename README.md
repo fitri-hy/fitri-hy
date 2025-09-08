@@ -16,9 +16,9 @@
 I enjoy exploring the world of technology, trying new things, and experimenting with unique ideas.  
 Learning through trial and error and discovering new things is fun for me, and I'm always amazed at how creative and useful technology can be.
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+<div style="display: flex; justify-start: center; gap: 5px;">
 
- <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
+ <img width="200px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitri-hy&theme=github" alt="fitri hy"/>
  
 </div>
@@ -83,7 +83,9 @@ Learning through trial and error and discovering new things is fun for me, and I
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ## Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
-<div>
+
+
+<div style="display: flex; justify-start: center; gap: 5px;">
 
 [![Fitri HY GitHub](https://github-readme-stats.vercel.app/api?username=fitri-hy\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/fitri-hy)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fitri-hy&theme=github" alt="fitri hy"/>
@@ -91,4 +93,3 @@ Learning through trial and error and discovering new things is fun for me, and I
 </div>
 
 </samp>
-
