@@ -18,7 +18,6 @@ Learning through trial and error and discovering new things is fun for me, and I
 
 <div style="display: flex; justify-start: center; gap: 5px;">
 
- <img width="200px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitri-hy&theme=github" alt="fitri hy"/>
  
 </div>
@@ -93,3 +92,4 @@ Learning through trial and error and discovering new things is fun for me, and I
 </div>
 
 </samp>
+
