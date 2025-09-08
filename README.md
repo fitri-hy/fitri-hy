@@ -16,7 +16,7 @@
 I enjoy exploring the world of technology, trying new things, and experimenting with unique ideas.  
 Learning through trial and error and discovering new things is fun for me, and I'm always amazed at how creative and useful technology can be.
 
-<div style="display: flex; justify-start: center; gap: 5px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
 
  <img width="165px" style="border-radius: 10%; margin-right: 15px;" src="https://avatars.githubusercontent.com/u/155282015?v=4" />
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fitri-hy&theme=github" alt="fitri hy"/>
